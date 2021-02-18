@@ -1,10 +1,10 @@
 * Fall 2021 235 Recursion Project
 
-* Last name:
+* Last name: Ajello
 
-* First name:
+* First name: Gianna
 
-* GitHub username:
+* GitHub username: giannaajello
 
 * Notes:
 
